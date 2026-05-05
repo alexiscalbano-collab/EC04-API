@@ -25,7 +25,7 @@ Ajoute les tables `livreur` et `sac_item`.
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON_PSEUDO/citylunch-api-symfony.git
+git clone https://github.com/alexiscalbano-collab/EC04-API.git
 cd citylunch-api-symfony
 ```
 
@@ -115,7 +115,7 @@ API disponible sur **http://localhost:8001**
 ## Lancer les tests
 
 ```bash
-php bin/phpunit
+vendor/bin/phpunit
 ```
 
 Le test vérifie la règle métier :
@@ -148,6 +148,6 @@ Règles métier :
 
 ## Dépôt Git
 
-https://github.com/TON_PSEUDO/citylunch-api-symfony
+https://github.com/alexiscalbano-collab/EC04-API
 
 > ⚠️ Remplacer par l'URL réelle avant de rendre.
